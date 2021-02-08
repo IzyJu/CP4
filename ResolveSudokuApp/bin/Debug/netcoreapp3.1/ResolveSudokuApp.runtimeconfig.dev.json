@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wilder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wilder\\.nuget\\packages"
+    ]
+  }
+}
